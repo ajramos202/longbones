@@ -1,7 +1,3 @@
-Here’s a concise and professional README file for the project:
-
----
-
 # Data Science Sprint Challenge: Statistical Tests and Experiments
 
 This project demonstrates statistical analysis and A/B testing techniques in Python. It involves analyzing skeletal remains data and evaluating a case study on A/B testing for Udacity's course enrollment process.
